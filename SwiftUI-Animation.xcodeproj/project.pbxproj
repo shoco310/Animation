@@ -16,6 +16,7 @@
 		779B21722A07D17500CFE52E /* SwiftUI_AnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B21712A07D17500CFE52E /* SwiftUI_AnimationTests.swift */; };
 		779B217C2A07D17500CFE52E /* SwiftUI_AnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B217B2A07D17500CFE52E /* SwiftUI_AnimationUITests.swift */; };
 		779B217E2A07D17500CFE52E /* SwiftUI_AnimationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B217D2A07D17500CFE52E /* SwiftUI_AnimationUITestsLaunchTests.swift */; };
+		779B218C2A07D82300CFE52E /* Beer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779B218B2A07D82300CFE52E /* Beer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		779B21772A07D17500CFE52E /* SwiftUI-AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-AnimationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		779B217B2A07D17500CFE52E /* SwiftUI_AnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_AnimationUITests.swift; sourceTree = "<group>"; };
 		779B217D2A07D17500CFE52E /* SwiftUI_AnimationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_AnimationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		779B218B2A07D82300CFE52E /* Beer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Beer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				779B21642A07D17500CFE52E /* Persistence.swift */,
 				779B21662A07D17500CFE52E /* SwiftUI_Animation.xcdatamodeld */,
 				779B21612A07D17500CFE52E /* Preview Content */,
+				779B218B2A07D82300CFE52E /* Beer.swift */,
 			);
 			path = "SwiftUI-Animation";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			files = (
 				779B21682A07D17500CFE52E /* SwiftUI_Animation.xcdatamodeld in Sources */,
 				779B21652A07D17500CFE52E /* Persistence.swift in Sources */,
+				779B218C2A07D82300CFE52E /* Beer.swift in Sources */,
 				779B215E2A07D17300CFE52E /* ContentView.swift in Sources */,
 				779B215C2A07D17300CFE52E /* SwiftUI_AnimationApp.swift in Sources */,
 			);
